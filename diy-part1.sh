@@ -16,3 +16,9 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#echo 'src-git adblock https://github.com/8688Add/luci-app-adblock-plus' >>feeds.conf.default
+#echo 'src-git argon https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
+#echo 'src-git netdata https://github.com/sirpdboy/luci-app-netdata' >>feeds.conf.default
+#echo 'src-git store https://github.com/souwei168/luci-app-store' >>feeds.conf.default
+#echo 'src-git v2ray https://github.com/esirplayground/luci-app-v2ray-server' >>feeds.conf.default
+#echo 'src-git smartdns https://github.com/pymumu/luci-app-smartdns' >>feeds.conf.default
